@@ -4,7 +4,7 @@
 An end-to-end data analytics project for a real estate marketing team running paid campaigns across **Meta** and **Google** in 2024. The project covers SQL-based data extraction and cleaning, metric engineering, and an Excel dashboard designed to help campaign managers make faster, evidence-based budget decisions.
 
 
-![sql]()
+![sql](https://github.com/user-attachments/assets/09b297c4-c78f-41ff-ad4f-611942170746)
 
 ---
 

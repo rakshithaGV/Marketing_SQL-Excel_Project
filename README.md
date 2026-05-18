@@ -248,19 +248,7 @@ Ranks individual ads within campaigns by CTR, CPL, and conversion rate. Identifi
 
 ---
 
-## How to Use This Project
 
-**To run the SQL:**
-1. Create a MySQL database named `project`
-2. Run the `CREATE TABLE` statements at the top of `marketing.sql`
-3. Import your `platform_data` and `lead_data` CSVs
-4. Execute queries sequentially — each section builds on the previous
-
-**To use the dashboard:**
-1. Open `Marketing_Campaign_Dashboard.xlsx`
-2. Go to the `Raw_Data` sheet — this is the joined, metric-enriched dataset powering the pivots
-3. Each pivot sheet is pre-built; use slicers to filter by platform, campaign, or city
-4. The `Dashboard` sheet shows top-level KPIs
 
 ---
 
